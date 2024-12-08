@@ -1,0 +1,3 @@
+Este es un archivo creado con el comando nano desde la terminal.
+Tuve que darle control+O para guardarlo y luego enter
+Por ultimo, control+X para salir del editor.

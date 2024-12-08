@@ -1,0 +1,2 @@
+Este es un archivo creado desde la terminal usando el comando echo
+Esto es otra linea de texto anadida al archivo

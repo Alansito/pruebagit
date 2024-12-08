@@ -1,0 +1,3 @@
+Este es un archivo creado con el comando vi vi.txt desde la terminal.
+Para comenzar a escribir en el tuve que hacer clic en la letra "i" que significa "insercion".
+Para salir hago clic en la tecla Esc, escribir :wq, y Enter
